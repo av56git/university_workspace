@@ -28,4 +28,4 @@ Nel corso dei vari anni accademici, gli esercizi e i progetti spaziano su divers
 Tutto il materiale è a disposizione per chiunque voglia prenderne spunto. Se trovi errori negli appunti o vuoi proporre una soluzione alternativa a un esercizio, sentiti libero di aprire una **Issue** o una **Pull Request**.
 
 ## 📫 Contatti
-Se sei interessato al mio profilo, vuoi farmi una domanda o semplicemente connetterti, puoi trovarmi su [LinkedIn](www.linkedin.com/in/alessandro-vadacca).
+Se sei interessato al mio profilo, vuoi farmi una domanda o semplicemente connetterti, puoi trovarmi su [LinkedIn](https://www.linkedin.com/in/alessandro-vadacca).
