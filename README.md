@@ -10,7 +10,7 @@ Ho creato questa repository per documentare il mio percorso di studi, tenere tra
 L'ambiente è organizzato in modo logico e modulare:
 
 - **`/docs/academic_courses`**: Il cuore della repository. È suddiviso in anni accademici e singoli corsi.
-  - 📘 **`Anno_1/`**: Corsi del primo anno (es. Programmazione, Architetture).
+  - 📘 **`Anno_1/`**: Corsi del primo anno
   - 📗 **`Anno_2/`**: Corsi del secondo anno.
   - 📙 **`Anno_3/`**: Corsi del terzo anno.
   
